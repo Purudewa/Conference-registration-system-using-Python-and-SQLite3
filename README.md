@@ -1,0 +1,2 @@
+# Conference-registration-system-using-Python-and-SQLite3
+For different events held at the conference, participants will be able to register through the portal. A registration system takes as input participant details and the events that the user wishes to register for. It calculates the total fees and issues an invoice. At any moment, the participant may abort the registration or make changes in his registration. SQLite3 database has been used for the maintenance of user information.
